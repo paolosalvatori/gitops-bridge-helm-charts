@@ -1,0 +1,90 @@
+apiVersion: v1
+entries:
+  aws-ebs-csi-classes:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-03-27T17:36:25.96892721Z"
+    description: A Helm chart for AWS EBS CSI Classes
+    digest: df784255eae4fcfbfe717db36a4a6159e23bce53c64bc801f944fe2b95e3e682
+    name: aws-ebs-csi-classes
+    type: application
+    urls:
+    - https://github.com/paolosalvatori/gitops-bridge-helm-charts/releases/download/aws-ebs-csi-classes-1.0.0/aws-ebs-csi-classes-1.0.0.tgz
+    version: 1.0.0
+  aws-fargate-fluentbit:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-03-27T17:36:26.080379554Z"
+    description: A Helm chart AWS Fargate FluentBit
+    digest: 5affa6b1e963338b46e9c3e389bc5ecb0df8d06373e5a8ce932fae323741cc89
+    name: aws-fargate-fluentbit
+    type: application
+    urls:
+    - https://github.com/paolosalvatori/gitops-bridge-helm-charts/releases/download/aws-fargate-fluentbit-1.0.0/aws-fargate-fluentbit-1.0.0.tgz
+    version: 1.0.0
+  crossplane-aws:
+  - apiVersion: v2
+    appVersion: v0.47.0
+    created: "2024-03-27T17:36:26.188193203Z"
+    description: A Helm chart for Kubernetes
+    digest: 45a6fe547f1c2b9d8f5252bd1c5c5b83b7b128797edda14e344b1b9a9f592b37
+    name: crossplane-aws
+    type: application
+    urls:
+    - https://github.com/paolosalvatori/gitops-bridge-helm-charts/releases/download/crossplane-aws-2.2.0/crossplane-aws-2.2.0.tgz
+    version: 2.2.0
+  crossplane-aws-upbound:
+  - apiVersion: v2
+    appVersion: v1.1.0
+    created: "2024-03-27T17:36:26.296175959Z"
+    description: A Helm chart for Kubernetes
+    digest: 9f2e4fafdeff4c860dc3b1f9e050da94bc36b239ed818cf9195319229097e38c
+    name: crossplane-aws-upbound
+    type: application
+    urls:
+    - https://github.com/paolosalvatori/gitops-bridge-helm-charts/releases/download/crossplane-aws-upbound-3.0.0/crossplane-aws-upbound-3.0.0.tgz
+    version: 3.0.0
+  crossplane-azure-upbound:
+  - apiVersion: v2
+    appVersion: v1.1.0
+    created: "2024-03-27T17:36:26.410693808Z"
+    description: A Helm chart for the Azure Provider for Crossplane
+    digest: 84e5f42b749741f19fe85ac58bbfec7db91ac651aa0152cb4836c56cd8098180
+    name: crossplane-azure-upbound
+    type: application
+    urls:
+    - https://github.com/paolosalvatori/gitops-bridge-helm-charts/releases/download/crossplane-azure-upbound-2.0.2/crossplane-azure-upbound-2.0.2.tgz
+    version: 2.0.2
+  crossplane-helm:
+  - apiVersion: v2
+    appVersion: v0.17.0
+    created: "2024-03-27T17:36:26.537980931Z"
+    description: A Helm chart for Kubernetes
+    digest: 4965346b64578752fef49bf390b8297d96b844c3d3c61fc982a1662459a71f34
+    name: crossplane-helm
+    type: application
+    urls:
+    - https://github.com/paolosalvatori/gitops-bridge-helm-charts/releases/download/crossplane-helm-1.1.0/crossplane-helm-1.1.0.tgz
+    version: 1.1.0
+  crossplane-kubernetes:
+  - apiVersion: v2
+    appVersion: v0.12.1
+    created: "2024-03-27T17:36:26.65606046Z"
+    description: A Helm chart for Kubernetes
+    digest: 7e9531cc35e1cf2aef114b76fbff41187e359d305ded73de7cf2d7d0fe2f6084
+    name: crossplane-kubernetes
+    type: application
+    urls:
+    - https://github.com/paolosalvatori/gitops-bridge-helm-charts/releases/download/crossplane-kubernetes-1.2.0/crossplane-kubernetes-1.2.0.tgz
+    version: 1.2.0
+  team:
+  - apiVersion: v2
+    created: "2024-03-27T17:36:26.781331212Z"
+    description: A Helm Chart to bootstrap a Namespace in a Multi-Tenancy setup
+    digest: b5755319b154e6494cb33f30a0c289d1379f3e99f25d25fdee26e409d17e68dc
+    name: team
+    type: application
+    urls:
+    - https://github.com/paolosalvatori/gitops-bridge-helm-charts/releases/download/team-1.0.0/team-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-03-27T17:36:26.781338626Z"
