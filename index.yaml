@@ -55,6 +55,16 @@ entries:
     urls:
     - https://github.com/paolosalvatori/gitops-bridge-helm-charts/releases/download/crossplane-azure-upbound-2.0.2/crossplane-azure-upbound-2.0.2.tgz
     version: 2.0.2
+  - apiVersion: v2
+    appVersion: v1.0.0
+    created: "2024-03-28T07:35:33.63754142Z"
+    description: A Helm chart for the Azure Provider for Crossplane
+    digest: c94c3ca2f4e0bf258b9b60a7438fee67ceb1e173c4db671fc27f0191a20ad560
+    name: crossplane-azure-upbound
+    type: application
+    urls:
+    - https://github.com/paolosalvatori/gitops-bridge-helm-charts/releases/download/crossplane-azure-upbound-1.0.0/crossplane-azure-upbound-1.0.0.tgz
+    version: 1.0.0
   crossplane-helm:
   - apiVersion: v2
     appVersion: v0.17.0
@@ -87,4 +97,4 @@ entries:
     urls:
     - https://github.com/paolosalvatori/gitops-bridge-helm-charts/releases/download/team-1.0.0/team-1.0.0.tgz
     version: 1.0.0
-generated: "2024-03-27T17:36:26.781338626Z"
+generated: "2024-03-28T07:35:33.637552691Z"
